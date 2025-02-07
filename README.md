@@ -1,6 +1,8 @@
 # Goosint Cyber Toolkit
-A curated list of best free web-based cyber security tools: intelligence, offensive & defensive, and investigations.
+A curated list of best free web-based cyber security tools: intelligence, offensive & defensive, and investigations. 
+
 This list help those who are in the cyber intelligence (CTI), governance and compliance team (GRC), security operations center, red team & offensive security officers, and digital investigations experts.
+
 Happy cyber investigations 🧙‍♂️
 
 ## Table of Contents
@@ -29,8 +31,8 @@ _Objet section_
 _Objet section_ 
 - [Outil](https) - description.
 
-## License
-This work is licensed under a XXX license.
-
-
+## [↑](#table-of-contents) License
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors.
+\
+\
 Sincerely, [Khalil B.](https://www.linkedin.com/in/khalilb/),
