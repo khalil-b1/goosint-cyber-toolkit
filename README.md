@@ -38,6 +38,20 @@ _Search engines and platforms for attack surface management, cybersecurity intel
 - [HudsonRock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence tools.  
 - [Favi Hash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using it.  
 
+## [↑](#table-of-contents) Malware Analysis & Sandbox Tools  
+_Online sandboxes and security frameworks for analyzing malware, URLs, and files._  
+ 
+- [AppAnyRun](https://app.any.run/) - Interactive malware analysis.  
+- [BrowserLing](https://www.browserling.com/browser-sandbox) - Online browser sandbox.  
+- [BrowserLing (new interface)](https://www.browserling.com) - Online browser sandbox.  
+- [Joe Sandbox](https://www.joesandbox.com/) - Windows, macOS, and Android sandbox.  
+- [Urlscan](https://urlscan.io/) - Public sandbox for URL analysis.  
+- [Filescan](https://www.filescan.io/scan) - Sandbox by OPSWAT for file scanning.  
+- [Cuckoo CERT](https://cuckoo.cert.ee) - Online malware analysis tool.  
+- [Triage](https://tria.ge) - Analyze malware samples.  
+- [MobSF](https://mobsf.live/) - Android/iOS/Windows mobile security framework.  
+- [Browser.lol](https://browser.lol) - Visit blocked or risky websites.
+
 ## [↑](#table-of-contents) Section
 _Objet section_ 
 - [Outil](https) - description.
