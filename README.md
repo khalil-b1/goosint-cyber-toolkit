@@ -2,7 +2,7 @@
 A curated list of amazing web-based tools related to cybersecurity, threat intelligence, and digital investigations.
 This list helps you gathering information you need about your target through publicly available data. This data will let you know more about a specific target or about your organization’s internet exposure.
 
-Most of the tools listed here are completely FREE, or partially free (i.e. for open source projects). Enjoy them! 🧙‍♂️
+Most of the tools listed here are completely FREE, or partially free (i.e. for open source projects). So enjoy them! 🧙‍♂️
 
 ## Table of Contents
 - [Attack Surface Management](#-Attack-Surface-Management)
