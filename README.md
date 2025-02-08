@@ -1,9 +1,9 @@
 # Goosint Cyber Toolkit [![Powered by Badge](https://github.com/khalil-b1/goosint/raw/main/media/powered-by-badge.png)](https://github.com/khalil-b1/goosint/tree/main)
 A curated list of amazing web-based tools related to cybersecurity, threat intelligence, and digital investigations.
 
-This list helps you gathering information you need about your target through publicly available data. This data will let you know more about a specific target or about your organization’s internet exposure.
+This list helps you gathering information you need about your target through publicly available data. This data will let you know more about your organization’s internet exposure.
 
-Most of the tools listed here are completely FREE, or partially free (i.e. for open source projects). 
+Most of the tools are completely free, and just few are partially free (i.e. for open source projects). 
 
 Enjoy them! 🧙‍♂️
 
