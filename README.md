@@ -142,7 +142,7 @@ _Domain security analysis, email authentication, and DNS security checks._
 - [DNS Security](https://check.merox.io/) - DNS security check by Merox.  
 - [NCSC DNS Security](https://emailsecuritycheck.service.ncsc.gov.uk/check) - DNS security check by UK National Cybersecurity.
 
-## [↑](#table-of-contents) IP & Network Tools  
+## [↑](#table-of-contents) IP and Network Tools  
 _IP address lookups, network scanning, and BGP information._  
 
 - [BGP Tools](https://bgp.tools) - BGP info from ASN, prefix, or DNS.  
@@ -192,7 +192,7 @@ _Scanning vulnerabilities, checking security headers, SSL certificates, and more
 - [Web Archive](http://web.archive.org/) - Internet archive machine.  
 - [Visual Ping](https://visualping.io/) - Monitor changes on a website page.  
 
-## [↑](#table-of-contents) Code Security & Analysis Tools  
+## [↑](#table-of-contents) Code Security and Analysis Tools  
 _Secure code review, static application security testing, and code quality improvement._  
 
 - [GitGuardian (Free & Paid)](https://www.g2.com/categories/secure-code-review) - Secure code review tool offering free unlimited secrets detection.  
@@ -200,27 +200,144 @@ _Secure code review, static application security testing, and code quality impro
 - [GuardRails (Paid, Free tier)](https://www.guardrails.io) - Static application security testing platform.  
 - [CodeScene (Free & Paid)](https://codescene.com) - Code analysis tool using behavioral insights to improve code quality.  
 
-## [↑](#table-of-contents)
+## [↑](#table-of-contents) Authentication and Encryption Tools  
+_Certificate history search, MFA/2FA verification, and data analysis/encoding._  
 
-## [↑](#table-of-contents)
+- [Crt](https://crt.sh/) - Certificate history search engine.  
+- [2FA Directory](https://2fa.directory/fr/) - Check if MFA/2FA is supported.  
+- [CyberChef](https://gchq.github.io/CyberChef/#recipe=Bcrypt(10)&input=S2hhbGls) - Analyzing and encoding data.
 
-## [↑](#table-of-contents)
+## [↑](#table-of-contents) Cybersecurity Alerts and Advisories  
+_Official alerts and advisories from global cybersecurity teams and organizations._  
 
-## [↑](#table-of-contents)
+- [CERT-EU Advisory (EN)](https://cert.europa.eu/publications/security-advisories/2024) - Alerts and advisories from the European Union Computer Emergency Response Team.  
+- [CISA Advisory (EN)](https://www.cisa.gov/news-events/cybersecurity-advisories) - Cybersecurity alerts and advisories from CISA (US Cyber Defense Agency).  
+- [MyCert Advisory (EN)](https://www.mycert.org.my/) - Malaysia Computer Emergency Response Team (MyCERT) alerts.  
+- [CERT-FR Advisory (FR)](https://www.cert.ssi.gouv.fr) - Computer Emergency Response Team from the French security agency (ANSSI). 
 
-## [↑](#table-of-contents)
+## [↑](#table-of-contents) Vulnerability Databases  
+_Prioritizing and analyzing vulnerabilities, CVE databases and CVSS calculator._  
 
-## [↑](#table-of-contents)
+- [VulnCheck KEV](https://vulncheck.com/kev) - Largest vulnerabilities prioritization database.  
+- [Exploit DB](https://www.exploit-db.com/search) - Vulnerabilities advanced database.  
+- [CVEShield](https://cveshield.com) - Find information about any vulnerabilities.  
+- [CVE Details](https://www.cvedetails.com) - Vulnerabilities database by SSC.  
+- [Vulners](https://vulners.com) - Exploit search engine.  
+- [First.org](https://www.first.org/cvss/calculator/4.0) - Custom CVSS score calculator.  
 
-## [↑](#table-of-contents)
+## [↑](#table-of-contents) Threat Intelligence and Leaked Data  
+_Resources for threat intelligence, leaks, and databases of compromised data for security researchers._  
 
-## [↑](#table-of-contents)
+- [LeakIX](https://leakix.net/) - Assets leaks and security incident monitoring.  
+- [Nuclear Leaks](https://nuclearleaks.com) - Largest free website leak database collection.  
+- [Abuse.ch](https://abuse.ch) - Community-driven threat intelligence (6 databases).  
+- [Ransomware.live](https://www.ransomware.live/) - Monitor ransomware groups' activity.  
+- [Any Run CTI](https://intelligence.any.run/) - Threat intelligence platform by Any Run.  
+- [BinaryEdge Threat Intelligence Platform](https://app.binaryedge.io/login) - Threat intelligence platform.  
+- [ThreatBook CTI](https://threatbook.io) - Threat intelligence platform.  
+- [Pulsedive](https://pulsedive.com) - Threat intelligence platform.  
+- [Alienvault OTX](https://otx.alienvault.com/) - Community-powered open threat exchange platform.  
+- [OpenCTI](https://demo.opencti.io/) - CTI structuring platform by French ANSSI.  
+- [Carbon Black](https://community.carbonblack.com) - VMware CB real-time threat research data.  
+- [Palo Alto ATOMs](https://unit42.paloaltonetworks.com/atoms/) - Actionable threat objects and mitigations.  
+- [RiskIQ](https://community.riskiq.com/home) - Internet intelligence by Microsoft.  
+- [Filesec](https://filesec.io/#) - Latest attackers' file extensions.  
+- [LOLBIN](https://lolbas-project.github.io) - Attackers' binaries used outside their intended purpose.  
+- [GTFOBins](https://gtfobins.github.io) - Binaries to bypass misconfigured systems.  
+- [NTLM](https://ntlm.pw/) - Database of +8.7 billion password hashes.  
+- [VXIntelligence](https://vxintelligence.com/) - Find compromised passwords from vulnerable C2 servers.  
+- [0day.today](https://0day.today/) - Marketplace for 0-day exploits.  
+- [Malware Bazaar](https://bazaar.abuse.ch) - Malware sharing platform for infosec professionals.  
+- [Feodo Tracker](https://feodotracker.abuse.ch) - Browse botnet command & control infrastructure.  
+- [Snusbase (paid)](https://snusbase.com/) - Search engine for leaked databases, allowing users to find compromised credentials.  
+- [DeHashed (paid)](https://dehashed.com) - Advanced breach search engine to find leaked personal and corporate data.  
+- [RocketReach (paid)](https://rocketreach.co) - Contact and company intelligence platform for finding professional emails and phone numbers.
 
-## [↑](#table-of-contents)
+## [↑](#table-of-contents) News Aggregators and Automation Tools  
+_Tools for aggregating news, managing links, and automating threat intelligence workflows._  
 
-## [↑](#table-of-contents)
+- [FreshRSS](https://freshrss.org) - Self-hosted RSS feed aggregator (requires setup).  
+- [Google News](https://news.google.com) - News aggregator from Google.  
+- [Feedly](https://feedly.com) - RSS feed aggregator.  
+- [IFTTT](https://ifttt.com) - Automation platform to connect apps and devices through custom workflows.  
+- [Raindrop.io](https://raindrop.io) - Bookmark manager for organizing and syncing links across devices.
 
-## [↑](#table-of-contents)
+## [↑](#table-of-contents) Investigation Visualiser 
+_Tools for tracking investigations, organizing notes, and visualizing data._  
+
+- [OSINTracker](https://www.osintracker.com/) - Track your investigations online.  
+- [Obsidian](https://obsidian.md/) - Create notes and visualize them in graphs.  
+- [Draw.io](https://app.diagrams.net/) - Make diagrams and flow charts online.
+
+## [↑](#table-of-contents) Active Directory and M365 Security Tools  
+_Tools for auditing, hardening, and reporting on Active Directory (AD), Microsoft 365 security, GWP security._
+ 
+- [Purple Knight](https://www.purple-knight.com/) - Active Directory Security Audit by Semperis (requires setup).  
+- [PingCastle](https://www.pingcastle.com/) - Active Directory Security at 80% by Vincent Le Toux (requires setup).  
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound) - AD and AAD Complex Attack Path Audit (requires setup).  
+- [Harden AD](https://hardenad.net) - AD and M365 Infrastructure Hardening (requires setup).  
+- [CRT](https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/) - CrowdStrike Reporting Tool for Azure AD / O365.  
+- [AADInternals](https://aadinternals.com/osint/) - Extract openly available tenant information.  
+- [Adalanche](https://github.com/lkarlslund/Adalanche) - Open-Source Active Directory ACL Visualizer (requires setup).  
+- [ScubaGear](https://github.com/cisagov/ScubaGear?tab=readme-ov-file) - Assess the state of your M365 tenant against CISA's baselines (requires setup).  
+- [ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - Assess the state of your Google Workspace tenant against CISA's baselines (requires setup).  
+
+## [↑](#table-of-contents) Endpoint Security Testing
+_Tools to assess your defense and test your security mechanisms._
+
+- [Ransomware Risk Scan](https://testmydefenses.com/ransomware-assessment/) - Test your ransomware defense by Zscaler.  
+- [Wicar](https://www.wicar.org) - Test your anti-malware and anti-virus.  
+- [Browser Test](https://www.ssllabs.com/ssltest/viewMyClient.html) - Web browser scan.  
+- [SurfShark](https://surfshark.com/fr/dns-leak-test) - DNS leak test.  
+- [Security Preview](http://securitypreview.zscaler.com) - Internet threat exposure analysis.  
+- [OTX EndPoint Security](https://otx.alienvault.com/endpoint-security/welcome) - Community-powered endpoint security tool.
+
+## [↑](#table-of-contents) Cyber Rating and Company Security Exposure Assessments  
+_Tools to evaluate the security posture of your network and partners._
+
+- [ShadowServer](https://www.shadowserver.org/what-we-do/network-reporting/get-reports/) - Daily reports for your network and security exposure.  
+- [Coalition](https://control.coalitioninc.com) - Cyber score for your company.  
+- [Bitsight](https://www.bitsight.com/security-ratings-snapshot-report) - Free customized security ratings report.  
+- [SecurityScorecard](https://platform.securityscorecard.io/) - Security score of your partners (14-day trial).  
+
+## [↑](#table-of-contents) Cybersecurity Program and GRC Management Platforms  
+_Tools for managing and ensuring compliance with international cybersecurity standards and company requirements._
+
+- [CISO Assistant](https://intuitem.com/fr/ciso-assistant/) - Cybersecurity program & compliance management platform by a French company.  
+- [Gapps](https://github.com/bmarsh9/gapps) - Cybersecurity compliance management platform (requires setup).  
+- [Demin](https://github.com/dbarzin/deming) - Management tool for information security management system (requires setup).  
+- [Tenacy.io](https://www.tenacy.io/en/) - Cybersecurity program management platform by a French company (paid).  
+- [Simple Risk](https://www.simplerisk.com/) - Cybersecurity program management platform (paid).  
+
+## [↑](#table-of-contents) Search Tools and Data Extractors  
+_Advanced engines for searching code, data, and public information across various platforms._  
+
+- [Publicwww](https://publicwww.com/) - Search across web pages' HTML, JS, and CSS code.  
+- [Metacrawler](https://www.metacrawler.com/) - Aggregates search engines.  
+- [Pastebin](https://pastebin.com/) - Search with Google Dorks.  
+- [Dork Search](https://dorksearch.com/) - Google Dorking commands generator.  
+- [Startpage](https://www.startpage.com/fr/) - Anonymous search engine.  
+- [SearchCode](https://searchcode.com/) - Search in 40M lines of code.  
+- [Grep](https://grep.app) - Search across Git repositories.  
+- [Telemetry](https://www.telemetryapp.io/) - Advanced search across Telegram.  
+- [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) - Browser extension to extract website data.  
+- [KQL Queries](https://www.kqlsearch.com/) - Search engine for KQL lovers.  
+- [Diggers](https://fidigger.com/#gsc.tab=0) - Search for public multiple files in file-sharing services.
+
+## [↑](#table-of-contents) General OSINT Tools & Platforms  
+_Tools and platforms for general Open Source Intelligence (OSINT) gathering and investigations._
+
+- [Kasm Web](https://kasmweb.com/) - Browser-based desktop for your investigations.  
+- [Gray Hat Warfare](https://grayhatwarfare.com) - Buckets and shorteners finder.  
+- [Black Bird](https://blackbird-osint.herokuapp.com) - Map accounts by username.  
+- [Grabify](https://grabify.link) - Track clicks on your URL.  
+- [OpenCorporates](https://opencorporates.com/) - Largest database to search professionals and entities.  
+- [AIHIT DATA](https://www.aihitdata.com/) - Business and companies OSINT.  
+- [Name Checkup](https://namecheckup.com/) - Check if a username is in use/available.  
+- [OSINT VM](https://www.tracelabs.org/initiatives/osint-vm) - Specialized OSINT virtual machine by Trace Labs.  
+- [VMWare VM](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html.html) - Free workstation player by VMWare.  
+- [Trace Labs](https://www.tracelabs.org/) - A non-profit organization to help find missing people.  
+- [OnChain Industries](https://app.onchain.industries/) - Search a wallet, username, or email.
 
 ## [↑](#table-of-contents) License
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors.
