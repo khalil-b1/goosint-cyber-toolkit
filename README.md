@@ -1,10 +1,8 @@
 # Goosint Cyber Toolkit
-A curated list of best free **browser-based cyber security tools**: cyber intelligence, offensive & defensive security, and investigations. 
+A curated list of amazing web-based tools related to cybersecurity, threat intelligence, and digital investigations.
+This list helps you gathering information you need about your target through publicly available data. This data will let you know more about a specific target or about your organization’s internet exposure.
 
-This list help those who are in the Cyber intelligence (CTI), Governance risk and compliance team (GRC), Security operations center, Red team & Offensive security officers, and Digital investigations experts.
-
-
-Happy cyber investigations 🧙‍♂️
+Most of the tools listed here are completely FREE, or partially free (i.e. for open source projects). Enjoy them! 🧙‍♂️
 
 ## Table of Contents
 - [Attack Surface Management](#-Attack-Surface-Management)
