@@ -39,7 +39,9 @@ At the end of 2023, the plateform has expanded to cover other topics in the fiel
 In February 2025, I decided to migrate my website, goosint.com, with +300 resources curated for almost 2 years to github.com and make it more collaborative.
 
 ## [↑](#table-of-contents) Contributing
-Soon
+If you want to add other tools or have any suggestions to improve this project, you can contact me here.
+
+PS. I still need to work on a proper contribution process in github. Please give me some time :cowboy_hat_face:.
 
 ## [↑](#table-of-contents) Attack Surface Management 
 _Search engines and platforms for attack surface management, cybersecurity intelligence, and threat analysis._  
@@ -362,7 +364,6 @@ _Tools and platforms for general Open Source Intelligence (OSINT) gathering and 
 - [OnChain Industries](https://app.onchain.industries/) - Search a wallet, username, or email.
 
 ## [↑](#table-of-contents) License
-This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors.
-\
-\
-Sincerely, [Khalil B.](https://www.linkedin.com/in/khalilb/),
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors (e.g, credit: goosint.com).
+
+Sincerely, [Khalil B.](https://www.linkedin.com/in/khalilb/)
