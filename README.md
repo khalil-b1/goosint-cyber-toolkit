@@ -6,10 +6,30 @@ This list help those who are in the Cyber intelligence (CTI), Governance risk an
 Happy cyber investigations 🧙‍♂️
 
 ## Table of Contents
-- [Titre section](#section)
 - [Attack Surface Management](#Attack-Surface-Management)
-- [Titre section](#section)
-donner les titres à chatgpt pour les tronsfrmer en format URI RFC 3986 [Titre](#format URI RF 3986 du titre)
+- [Malware Analysis and Sandbox](#Malware-Analysis-and-Sandbox)
+- [Security Reputation and Malware Scanners](#Security-Reputation-and-Malware-Scanners)
+- [Fraud Detection Tools](#Fraud-Detection-Tools)
+- [Email Security Tools](#Email-Security-Tools)
+- [Email Lookup and Verification Tools](#Email-Lookup-and-Verification-Tools)
+- [DNS Lookup and Whois Tools](#DNS-Lookup-and-Whois-Tools)
+- [Domain and DNS Security Scanner](#Domain-and-DNS-Security-Scanner)
+- [IP and Network Tools](#IP-and-Network-Tools)
+- [Image Intelligence](#Image-Intelligence)
+- [Web Application Security Scanner](#Web-Application-Security-Scanner)
+- [Code Security and Analysis Tools](#Code-Security-and-Analysis-Tools)
+- [Authentication and Encryption Tools](#Authentication-and-Encryption-Tools)
+- [Cybersecurity Alerts and Advisories](#Cybersecurity-Alerts-and-Advisories)
+- [Vulnerability Databases](#Vulnerability-Databases)
+- [Threat Intelligence and Leaked Data](#Threat-Intelligence-and-Leaked-Data)
+- [News Aggregators and Automation Tools](#News-Aggregators-and-Automation-Tools)
+- [Investigation Visualiser](#Investigation-Visualiser)
+- [Active Directory and M365 Security Tools](#Active-Directory-and-M365-Security-Tools)
+- [Endpoint Security Testing](#Endpoint-Security-Testing)
+- [Cyber Rating and Company Security Exposure Assessments](#Cyber-Rating-and-Company-Security-Exposure-Assessments)
+- [Cybersecurity Program and GRC Management Platforms](#Cybersecurity-Program-and-GRC-Management-Platforms)
+- [Search Tools and Data Extractors](#Search-Tools-and-Data-Extractors)
+- [General OSINT Tools & Platforms](#General-OSINT-Tools-Platforms)
 
 ## [↑](#table-of-contents) Credits
 Goosint is a personal project that started out in May 2023 as initially for sharing amazing, free, and ready-to-use [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) tools for cybersecurity specialists.
@@ -40,7 +60,7 @@ _Search engines and platforms for attack surface management, cybersecurity intel
 - [HudsonRock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence tools.  
 - [Favi Hash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using it.  
 
-## [↑](#table-of-contents) Malware Analysis and Sandbox Tools  
+## [↑](#table-of-contents) Malware Analysis and Sandbox  
 _Online sandboxes and security frameworks for analyzing malware, URLs, and files._  
  
 - [AppAnyRun](https://app.any.run/) - Interactive malware analysis.  
