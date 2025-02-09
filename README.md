@@ -5,7 +5,7 @@ This list helps you gathering information you need about your target through pub
 
 Most of the tools are completely free, and just few are partially free (i.e. for open source projects). 
 
-Enjoy them! 🧙‍♂️
+Enjoy them! :cowboy_hat_face:
 
 ## Table of Contents
 - [Attack Surface Management](#-Attack-Surface-Management)
@@ -39,7 +39,7 @@ At the end of 2023, the plateform has expanded to cover other topics in the fiel
 In February 2025, I decided to migrate my website, goosint.com, with +300 resources curated for almost 2 years to github.com and make it more collaborative.
 
 ## [↑](#table-of-contents) Contributing
-If you want to add other tools or have any suggestions to improve this project, you can contact me here.
+If you want to add other tools or have any suggestions to improve this project, you can contact me [here](https://www.linkedin.com/in/khalilb/).
 
 PS. I still need to work on a proper contribution process in github. Please give me some time :cowboy_hat_face:.
 
