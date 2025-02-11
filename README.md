@@ -5,7 +5,7 @@ This list helps you gathering information you need about your target through pub
 
 Most of the tools are completely free, and just few are partially free (i.e. for open source projects). 
 
-Enjoy them! :cowboy_hat_face:
+Enjoy them! :smiling_imp:
 
 ## Table of Contents
 - [Attack Surface Management](#-Attack-Surface-Management)
