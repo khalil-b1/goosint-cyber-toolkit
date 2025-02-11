@@ -277,7 +277,7 @@ _Resources for threat intelligence, leaks, and databases of compromised data for
 - [DeHashed (paid)](https://dehashed.com) - Advanced breach search engine to find leaked personal and corporate data.  
 - [RocketReach (paid)](https://rocketreach.co) - Contact and company intelligence platform for finding professional emails and phone numbers.
 - [CTF Search](https://ctfsearch.hackmap.win/) - Search CTF (Capture The Flag) writeups.
-- [Altenens](https://altenens.is/) - Forum where people sharing data leaks.
+- [Altenens](https://altenens.is/) - Forum where people share data leaks.
 
 ## [↑](#table-of-contents) News Aggregators and Automation Tools  
 _Tools for aggregating news, managing links, and automating threat intelligence workflows._  
@@ -340,7 +340,7 @@ _Advanced engines for searching code, data, and public information across variou
 
 - [Publicwww](https://publicwww.com/) - Search across web pages' HTML, JS, and CSS code.  
 - [Metacrawler](https://www.metacrawler.com/) - Aggregates search engines.  
-- [Pastebin](https://pastebin.com/) - Search with Google Dorks.  
+- [Pastebin](https://pastebin.com/) - Use Google Dorks on this pastebin.  
 - [Dork Search](https://dorksearch.com/) - Google Dorking commands generator.  
 - [Startpage](https://www.startpage.com/fr/) - Anonymous search engine.  
 - [SearchCode](https://searchcode.com/) - Search in 40M lines of code.  
@@ -353,7 +353,8 @@ _Advanced engines for searching code, data, and public information across variou
 ## [↑](#table-of-contents) General OSINT Tools & Platforms  
 _Tools and platforms for general Open Source Intelligence (OSINT) gathering and investigations._
 
-- [Kasm Web](https://kasmweb.com/) - Browser-based desktop for your investigations.  
+- [Kasm Web](https://kasmweb.com/) - Browser-based desktop for your investigations.
+- [Whonix](https://www.whonix.org/) - A definitely maximum anonymity and security VM.
 - [Gray Hat Warfare](https://grayhatwarfare.com) - Buckets and shorteners finder.  
 - [Black Bird](https://blackbird-osint.herokuapp.com) - Map accounts by username.  
 - [Grabify](https://grabify.link) - Track clicks on your URL.  
