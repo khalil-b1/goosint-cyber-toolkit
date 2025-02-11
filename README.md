@@ -276,6 +276,7 @@ _Resources for threat intelligence, leaks, and databases of compromised data for
 - [Snusbase (paid)](https://snusbase.com/) - Search engine for leaked databases, allowing users to find compromised credentials.  
 - [DeHashed (paid)](https://dehashed.com) - Advanced breach search engine to find leaked personal and corporate data.  
 - [RocketReach (paid)](https://rocketreach.co) - Contact and company intelligence platform for finding professional emails and phone numbers.
+- [CTF Search](https://ctfsearch.hackmap.win/) - Search CTF (Capture The Flag) writeups.
 
 ## [↑](#table-of-contents) News Aggregators and Automation Tools  
 _Tools for aggregating news, managing links, and automating threat intelligence workflows._  
