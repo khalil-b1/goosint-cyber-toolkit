@@ -193,10 +193,13 @@ _Reverse image search, face recognition, and image metadata analysis._
 _Scanning vulnerabilities, checking security headers, SSL certificates, and more._  
   
 - [OpenVAS Online](https://hostedscan.com/openvas-vulnerability-scan) - Online vulnerability scanner.  
-- [Faraday Personal](https://forms.zohopublic.com/faradaysec/form/FaradayScanyoursite/formperma/nU_LVbR94GH0dk0mvR-OeeIWKWoVRTuh6SWUTfqMtRo) - Vulnerability management platform.  
-- [EDPB Web Auditing](https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-expert-projects/edpb-website-auditing-tool_en) - Check website compliance with GDPR for free.  
+- [Faraday Personal](https://forms.zohopublic.com/faradaysec/form/FaradayScanyoursite/formperma/nU_LVbR94GH0dk0mvR-OeeIWKWoVRTuh6SWUTfqMtRo) - Vulnerability management platform.
+- [Webbkoll](https://webbkoll.5july.net/) - Check what data-protecting measures a site has taken. 
+- [EDPB Web Auditing](https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-expert-projects/edpb-website-auditing-tool_en) - Check website compliance with GDPR for free.
+- [Hardenize](https://www.hardenize.com/) - General reports (DNS, email, certificate, security conf.) against your public domain.  
 - [SSLLabs](https://www.ssllabs.com/ssltest/) - Website SSL certificate scanner by Qualys.  
-- [SSL Scan](https://hackertarget.com/ssl-check/) - SSL/TLS scan.  
+- [SSL Scan](https://hackertarget.com/ssl-check/) - SSL/TLS scan.
+- [Report URI](https://report-uri.com/home/tools) - CSP, CSR and certificates scanners. 
 - [Security Header](https://securityheaders.com/) - HTTP response headers security scanner.  
 - [WafWoof](https://w-e-b.site/?act=wafw00f) - WAF detection.  
 - [Sucuri](https://sitecheck.sucuri.net) - Detecting payloads, WAF, blocklisting, and security patches.  
@@ -214,7 +217,7 @@ _Scanning vulnerabilities, checking security headers, SSL certificates, and more
 - [Hackertarget Drupal](https://hackertarget.com/drupal-security-scan/) - Drupal security scan.  
 - [SimilarWeb](https://www.similarweb.com) - Website approximate traffic and ranking.  
 - [Web Archive](http://web.archive.org/) - Internet archive machine.  
-- [Visual Ping](https://visualping.io/) - Monitor changes on a website page.  
+- [Visual Ping](https://visualping.io/) - Monitor changes on a website page.
 
 ## [↑](#table-of-contents) Code Security and Analysis Tools  
 _Secure code review, static application security testing, and code quality improvement._  
