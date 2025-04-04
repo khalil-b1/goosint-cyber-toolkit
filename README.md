@@ -142,7 +142,8 @@ _Retrieving and verifying emails, as well as mapping digital footprints._
 _DNS record lookup, whois information, and DNS intelligence._  
 
 - [Whatsmydns](https://www.whatsmydns.net/whois?q=yourdomain.com) - DNS Whois details.  
-- [DigWebInterface](https://digwebinterface.com/?hostnames=&type=&showcommand=on&colorize=on&sort=on&compare=on&location=on&ns=resolver&useresolver=8.8.4.4&nameservers=) - DNS dig tool.  
+- [DigWebInterface](https://digwebinterface.com/?hostnames=&type=&showcommand=on&colorize=on&sort=on&compare=on&location=on&ns=resolver&useresolver=8.8.4.4&nameservers=) - DNS dig tool.
+- [Google Dig](https://toolbox.googleapps.com/apps/dig/) - DNS Dig by Google. 
 - [DiG GUI](https://www.diggui.com/) - DNS dig (new interface).  
 - [DomainTools](https://whois.domaintools.com) - DNS whois lookup.  
 - [View DNS](https://viewdns.info/) - DNS intelligence.  
@@ -270,7 +271,8 @@ _Resources for threat intelligence, leaks, and databases of compromised data for
 - [RiskIQ](https://community.riskiq.com/home) - Internet intelligence by Microsoft.  
 - [Filesec](https://filesec.io/#) - Latest attackers' file extensions.  
 - [LOLBIN](https://lolbas-project.github.io) - Attackers' binaries used outside their intended purpose.  
-- [GTFOBins](https://gtfobins.github.io) - Binaries to bypass misconfigured systems.  
+- [GTFOBins](https://gtfobins.github.io) - Binaries to bypass misconfigured systems.
+- [LOLC2](https://lolc2.github.io) - Collection of C2 frameworks to evade detections. 
 - [NTLM](https://ntlm.pw/) - Database of +8.7 billion password hashes.  
 - [VXIntelligence](https://vxintelligence.com/) - Find compromised passwords from vulnerable C2 servers.  
 - [0day.today](https://0day.today/) - Marketplace for 0-day exploits.  
