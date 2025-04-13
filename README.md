@@ -31,7 +31,7 @@ Enjoy them! :smiling_imp:
 - [Cyber Rating and Company Security Exposure Assessments](#-Cyber-Rating-and-Company-Security-Exposure-Assessments)
 - [Cybersecurity Program and GRC Management Platforms](#-Cybersecurity-Program-and-GRC-Management-Platforms)
 - [Search Tools and Data Extractors](#-Search-Tools-and-Data-Extractors)
-- [General OSINT Tools & Platforms](#-General-OSINT-Tools-Platforms)
+- [General OSINT Tools & Platforms](#-General-OSINT-Tools-and-Platforms)
 
 ## [↑](#table-of-contents) Credits
 Goosint is a personal project that started out in May 2023 as initially for sharing amazing, free, and ready-to-use [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) tools for cybersecurity specialists.
@@ -355,7 +355,7 @@ _Advanced engines for searching code, data, and public information across variou
 - [KQL Queries](https://www.kqlsearch.com/) - Search engine for KQL lovers.  
 - [Diggers](https://fidigger.com/#gsc.tab=0) - Search for public multiple files in file-sharing services.
 
-## [↑](#table-of-contents) General OSINT Tools & Platforms  
+## [↑](#table-of-contents) General OSINT Tools and Platforms  
 _Tools and platforms for general Open Source Intelligence (OSINT) gathering and investigations._
 
 - [Kasm Web](https://kasmweb.com/) - Browser-based desktop for your investigations.
