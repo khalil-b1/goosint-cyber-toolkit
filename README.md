@@ -77,6 +77,7 @@ _Online sandboxes and security frameworks for analyzing malware, URLs, and files
 - [Triage](https://tria.ge) - Analyze malware samples.  
 - [MobSF](https://mobsf.live/) - Android/iOS/Windows mobile security framework.  
 - [Browser.lol](https://browser.lol) - Visit blocked or risky websites.
+- [DocGuard](https://www.docguard.io) - Malware analysis platform.
 
 ## [↑](#table-of-contents) Security Reputation and Malware Scanners  
 _Malware analysis, reputation lookup, and threat investigation._  
