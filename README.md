@@ -118,7 +118,9 @@ _Checking email breaches, phishing domains, and email security analysis._
 
 - [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if an email is leaked.  
 - [DomainSearch](https://haveibeenpwned.com/DomainSearch) - Get notified if your domain is in a breach.  
-- [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Find potential phishing domains similar to your domain.  
+- [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Find potential phishing domains similar to your domain.
+- [IntelBase](https://intelbase.is) - Email data breach lookup platform. 
+- [DataBreach](https://databreach.com) - Email and phone number data breach lookup service. 
 - [DNS Twist](https://dnstwist.it) - Detect phishing domains similar to yours.  
 - [Red Flag Domains](https://red.flag.domains/about) - Recently registered, potentially malicious domains.  
 - [Breach Directory](https://breachdirectory.org/) - Check email compromission.  
