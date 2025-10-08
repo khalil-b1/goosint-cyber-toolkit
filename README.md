@@ -286,6 +286,7 @@ _Resources for threat intelligence, leaks, and databases of compromised data for
 - [RocketReach (paid)](https://rocketreach.co) - Contact and company intelligence platform for finding professional emails and phone numbers.
 - [CTF Search](https://ctfsearch.hackmap.win/) - Search CTF (Capture The Flag) writeups.
 - [Altenens](https://altenens.is/) - Forum where people share data leaks.
+- [DataBreach](https://databreach.com) - Email and phone number data breach lookup service.
 
 ## [↑](#table-of-contents) News Aggregators and Automation Tools  
 _Tools for aggregating news, managing links, and automating threat intelligence workflows._  
