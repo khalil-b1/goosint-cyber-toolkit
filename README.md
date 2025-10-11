@@ -111,7 +111,8 @@ _Analyzing website business legitimacy, link redirection, and fraud detection._
 - [Blacklist Checker](https://blacklistchecker.com) - Check if an IP, domain, or email is blacklisted.  
 - [Scamalytics](https://scamalytics.com) - IP address fraud score.  
 - [Google Safe](https://transparencyreport.google.com/safe-browsing/) - Google Transparency Report for website safety.  
-- [France Verif](https://franceverif.fr/fr/verifier-site-web) - E-commerce reputation checker (browser extension available).  
+- [France Verif](https://franceverif.fr/fr/verifier-site-web) - E-commerce reputation checker (browser extension available).
+- [Flair](https://www.flairsafe.ch/) - Scam scanner (suspicious SMS, Deepfake, Emails, posts and DMs). 
 
 ## [↑](#table-of-contents) Email Security Tools  
 _Checking email breaches, phishing domains, and email security analysis._  
