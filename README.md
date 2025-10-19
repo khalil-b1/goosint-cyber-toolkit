@@ -288,6 +288,7 @@ _Resources for threat intelligence, leaks, and databases of compromised data for
 - [CTF Search](https://ctfsearch.hackmap.win/) - Search CTF (Capture The Flag) writeups.
 - [Altenens](https://altenens.is/) - Forum where people share data leaks.
 - [DataBreach](https://databreach.com) - Email and phone number data breach lookup service.
+- [Prompt Intel](https://promptintel.novahunting.ai) - Adversarial AI prompts database (Indicators of Prompt Compromise (IoPC)).
 
 ## [↑](#table-of-contents) News Aggregators and Automation Tools  
 _Tools for aggregating news, managing links, and automating threat intelligence workflows._  
