@@ -9,6 +9,7 @@ Enjoy them! :smiling_imp:
 
 ## Table of Contents
 - [Attack Surface Management](#-Attack-Surface-Management)
+- [Secure AI](#-Secure-AI)
 - [Malware Analysis and Sandbox](#-Malware-Analysis-and-Sandbox)
 - [Security Reputation and Malware Scanners](#-Security-Reputation-and-Malware-Scanners)
 - [Fraud Detection Tools](#-Fraud-Detection-Tools)
@@ -54,7 +55,8 @@ _Search engines and platforms for attack surface management, cybersecurity intel
 - [FullHunt](https://fullhunt.io/) - Attack surface management.  
 - [Onyphe](https://www.onyphe.io/) - Cyber defense search engine.  
 - [Greynoise](https://viz.greynoise.io/) - Asset and vulnerabilities search engine.  
-- [SOCRadar](https://socradar.io/) - Threat intelligence platform for dark web.  
+- [SOCRadar](https://socradar.io/) - Threat intelligence platform for dark web. 
+- [HaveIBeenRansom](https://haveibeenransom.com) - Check if you have been ransomed. 
 - [SecurityTrails](https://securitytrails.com/) - Attack surface intelligence API.  
 - [CriminalIP](https://www.criminalip.io/en) - Intelligence search.  
 - [Hunter](https://hunter.how/) - Hunter internet search.  
@@ -63,6 +65,11 @@ _Search engines and platforms for attack surface management, cybersecurity intel
 - [Polyswarm](https://polyswarm.io/) - Malware intelligence engine by Swarm.  
 - [HudsonRock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence tools.  
 - [Favi Hash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using it.  
+
+## [↑](#table-of-contents) Secure AI  
+_Online tools and security frameworks to secure AI._
+
+- [AIVSS Calculator](https://aivss.parthsohaney.online/calculator) - Dynamic AI Vulnerability Assessment Tool. 
 
 ## [↑](#table-of-contents) Malware Analysis and Sandbox  
 _Online sandboxes and security frameworks for analyzing malware, URLs, and files._  
@@ -159,7 +166,8 @@ _DNS record lookup, whois information, and DNS intelligence._
 ## [↑](#table-of-contents) Domain and DNS Security Scanner  
 _Domain security analysis, email authentication, and DNS security checks._  
 
-- [Blacklist Checker](https://dmarcly.com/tools/blacklist-checker) - Check if your domain is blacklisted.  
+- [Blacklist Checker](https://dmarcly.com/tools/blacklist-checker) - Check if your domain is blacklisted.
+- [DNSAudit](https://www.hudsonrock.com/threat-intelligence-cybercrime-tool) - Complete DNS threat test. 
 - [DMARCLY Tools](https://dmarcly.com/tools/) - Multiple DNS security checkers.  
 - [MXToolBox](https://mxtoolbox.com/) - DNS MX records audit.  
 - [BIMI Inspector](https://bimigroup.org/bimi-generator/) - Check your domain compliance with BIMI.  
@@ -255,13 +263,14 @@ _Prioritizing and analyzing vulnerabilities, CVE databases and CVSS calculator._
 - [CVEShield](https://cveshield.com) - Find information about any vulnerabilities.  
 - [CVE Details](https://www.cvedetails.com) - Vulnerabilities database by SSC.  
 - [Vulners](https://vulners.com) - Exploit search engine.  
-- [First.org](https://www.first.org/cvss/calculator/4.0) - Custom CVSS score calculator.  
+- [First.org](https://www.first.org/cvss/calculator/4.0) - Custom CVSS score calculator.
 
 ## [↑](#table-of-contents) Threat Intelligence and Leaked Data  
 _Resources for threat intelligence, leaks, and databases of compromised data for security researchers._  
 
 - [LeakIX](https://leakix.net/) - Assets leaks and security incident monitoring.  
-- [Nuclear Leaks](https://nuclearleaks.com) - Largest free website leak database collection.  
+- [Nuclear Leaks](https://nuclearleaks.com) - Largest free website leak database collection.
+- [HudsonRock Cavalier](https://www.hudsonrock.com/cavalier) - Largest compromised credentials database. 
 - [Abuse.ch](https://abuse.ch) - Community-driven threat intelligence (6 databases).  
 - [Ransomware.live](https://www.ransomware.live/) - Monitor ransomware groups' activity.  
 - [Any Run CTI](https://intelligence.any.run/) - Threat intelligence platform by Any Run.  
@@ -282,7 +291,7 @@ _Resources for threat intelligence, leaks, and databases of compromised data for
 - [0day.today](https://0day.today/) - Marketplace for 0-day exploits.  
 - [Malware Bazaar](https://bazaar.abuse.ch) - Malware sharing platform for infosec professionals.  
 - [Feodo Tracker](https://feodotracker.abuse.ch) - Browse botnet command & control infrastructure.  
-- [Snusbase (paid)](https://snusbase.com/) - Search engine for leaked databases, allowing users to find compromised credentials.  
+- [Snusbase (paid)](https://snusbase.com/) - Search engine for leaked databases, allowing users to find compromised credentials.   
 - [DeHashed (paid)](https://dehashed.com) - Advanced breach search engine to find leaked personal and corporate data.  
 - [RocketReach (paid)](https://rocketreach.co) - Contact and company intelligence platform for finding professional emails and phone numbers.
 - [CTF Search](https://ctfsearch.hackmap.win/) - Search CTF (Capture The Flag) writeups.
