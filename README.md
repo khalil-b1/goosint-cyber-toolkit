@@ -66,10 +66,11 @@ _Search engines and platforms for attack surface management, cybersecurity intel
 - [HudsonRock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence tools.  
 - [Favi Hash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using it.  
 
-## [↑](#table-of-contents) Secure AI  
+## [↑](#table-of-contents) Secure AI 💜  
 _Online tools and security frameworks to secure AI._
 
-- [AIVSS Calculator](https://aivss.parthsohaney.online/calculator) - Dynamic AI Vulnerability Assessment Tool. 
+- [AIVSS Framework](https://aivss.owasp.org/) - AI Vulnerability Scoring System (AIVSS) Framework by OWASP. 
+- [AIVSS Calculator](https://aivss.parthsohaney.online/calculator) - Dynamic AI Vulnerability Assessment Tool by OWASP.  
 
 ## [↑](#table-of-contents) Malware Analysis and Sandbox  
 _Online sandboxes and security frameworks for analyzing malware, URLs, and files._  
