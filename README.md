@@ -9,7 +9,7 @@ Enjoy them! :smiling_imp:
 
 ## Table of Contents
 - [Attack Surface Management](#-Attack-Surface-Management)
-- [Secure AI](#-Secure-AI)
+- [Secure AI](#-Secure-AI) 💜
 - [Malware Analysis and Sandbox](#-Malware-Analysis-and-Sandbox)
 - [Security Reputation and Malware Scanners](#-Security-Reputation-and-Malware-Scanners)
 - [Fraud Detection Tools](#-Fraud-Detection-Tools)
@@ -66,7 +66,7 @@ _Search engines and platforms for attack surface management, cybersecurity intel
 - [HudsonRock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence tools.  
 - [Favi Hash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using it.  
 
-## [↑](#table-of-contents) Secure AI 💜  
+## [↑](#table-of-contents) Secure AI  
 _Online tools and security frameworks to secure AI._
 
 - [AIVSS Framework](https://aivss.owasp.org/) - AI Vulnerability Scoring System (AIVSS) Framework by OWASP. 
