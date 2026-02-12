@@ -299,6 +299,7 @@ _Resources for threat intelligence, leaks, and databases of compromised data for
 - [Altenens](https://altenens.is/) - Forum where people share data leaks.
 - [DataBreach](https://databreach.com) - Email and phone number data breach lookup service.
 - [Prompt Intel](https://promptintel.novahunting.ai) - Adversarial AI prompts database (Indicators of Prompt Compromise (IoPC)).
+- [Bonjour la fuite](https://bonjourlafuite.eu.org) - C’est qui qui a fuité aujourd’hui ? 
 
 ## [↑](#table-of-contents) News Aggregators and Automation Tools  
 _Tools for aggregating news, managing links, and automating threat intelligence workflows._  
