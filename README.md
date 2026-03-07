@@ -69,8 +69,12 @@ _Search engines and platforms for attack surface management, cybersecurity intel
 ## [↑](#table-of-contents) Secure AI  
 _Online tools and security frameworks to secure AI._
 
+- [Prompt Security Fuzzer](https://prompt.security/fuzzer) - Open-source tool to harden your GenAI applications.
 - [AIVSS Framework](https://aivss.owasp.org/) - AI Vulnerability Scoring System (AIVSS) Framework by OWASP. 
-- [AIVSS Calculator](https://aivss.parthsohaney.online/calculator) - Dynamic AI Vulnerability Assessment Tool by OWASP.  
+- [AIVSS Calculator](https://aivss.parthsohaney.online/calculator) - Dynamic AI Vulnerability Assessment Tool by OWASP.
+- [Blacklight](https://blacklight.neatlabs.ai) - AI-powered privacy and tracking analysis tool.
+Policy Analyzer - AI-driven policy review and analysis tool.
+- [Policy Analyzer](https://policy.neatlabs.ai) - AI-driven policy review and analysis tool.
 
 ## [↑](#table-of-contents) Malware Analysis and Sandbox  
 _Online sandboxes and security frameworks for analyzing malware, URLs, and files._  
@@ -309,6 +313,7 @@ _Tools for aggregating news, managing links, and automating threat intelligence 
 - [Feedly](https://feedly.com) - RSS feed aggregator.  
 - [IFTTT](https://ifttt.com) - Automation platform to connect apps and devices through custom workflows.  
 - [Raindrop.io](https://raindrop.io) - Bookmark manager for organizing and syncing links across devices.
+- [World Monitor](https://www.worldmonitor.app/)- Global monitoring and intelligence platform.
 
 ## [↑](#table-of-contents) Investigation Visualiser 
 _Tools for tracking investigations, organizing notes, and visualizing data._  
@@ -351,6 +356,7 @@ _Tools to evaluate the security posture of your network and partners._
 ## [↑](#table-of-contents) Cybersecurity Program and GRC Management Platforms  
 _Tools for managing and ensuring compliance with international cybersecurity standards and company requirements._
 
+- [Cyber Assistant](https://cyber-assistant.com) - Free cyber assistant for cybersecurity program & compliance.
 - [CISO Assistant](https://intuitem.com/fr/ciso-assistant/) - Cybersecurity program & compliance management platform by a French company.  
 - [Gapps](https://github.com/bmarsh9/gapps) - Cybersecurity compliance management platform (requires setup).  
 - [Demin](https://github.com/dbarzin/deming) - Management tool for information security management system (requires setup).  
