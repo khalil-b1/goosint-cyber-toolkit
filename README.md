@@ -9,7 +9,7 @@ Enjoy them! :smiling_imp:
 
 ## Table of Contents
 - [Attack Surface Management](#-Attack-Surface-Management)
-- [Secure AI](#-Secure-AI) 💜
+- [Secure AI](#-Secure-AI)
 - [Malware Analysis and Sandbox](#-Malware-Analysis-and-Sandbox)
 - [Security Reputation and Malware Scanners](#-Security-Reputation-and-Malware-Scanners)
 - [Fraud Detection Tools](#-Fraud-Detection-Tools)
